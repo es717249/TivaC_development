@@ -1,0 +1,11 @@
+Dependencies for Project 'project0', Target 'project0': (DO NOT MODIFY !)
+F (.\project0.c)(0x5BF9C2D3)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I .. -I ..\..\..\.. --c99-I.\RTE\_project0-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="526" -D_RTE_ -DTM4C123GH6PM -Drvmdk -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1-o .\rvmdk\project0.o --omf_browse .\rvmdk\project0.crf --depend .\rvmdk\project0.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599FA01E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x599FA01E)
+I (..\..\..\..\inc/hw_types.h)(0x5BF9A0F4)
+I (..\..\..\..\inc/hw_memmap.h)(0x5BF9A0F4)
+I (..\..\..\..\driverlib/sysctl.h)(0x5BF9A0F1)
+I (..\..\..\..\driverlib/gpio.h)(0x5BF9A0F1)
+F (.\startup_rvmdk.S)(0x5BF9A0F2)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_project0-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 526" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1"-o .\rvmdk\startup_rvmdk.o --depend .\rvmdk\startup_rvmdk.d)
+F (..\..\..\..\driverlib\rvmdk\driverlib.lib)(0x5BF9A0F1)()
+F (.\readme.txt)(0x5BF9A0F2)()
